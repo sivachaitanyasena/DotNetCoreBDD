@@ -1,0 +1,16 @@
+C:\Users\ukrcachaturvedi\Desktop\NetCoreAutomation\NetCoreAutomation\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\ukrcachaturvedi\Desktop\NetCoreAutomation\NetCoreAutomation\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\ukrcachaturvedi\Desktop\NetCoreAutomation\NetCoreAutomation\bin\Debug\netcoreapp2.1\nunit.engine.dll
+C:\Users\ukrcachaturvedi\Desktop\NetCoreAutomation\NetCoreAutomation\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+C:\Users\ukrcachaturvedi\Desktop\NetCoreAutomation\NetCoreAutomation\bin\Debug\netcoreapp2.1\testhost.exe
+C:\Users\ukrcachaturvedi\Desktop\NetCoreAutomation\NetCoreAutomation\bin\Debug\netcoreapp2.1\testhost.dll
+C:\Users\ukrcachaturvedi\Desktop\NetCoreAutomation\NetCoreAutomation\bin\Debug\netcoreapp2.1\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\ukrcachaturvedi\Desktop\NetCoreAutomation\NetCoreAutomation\bin\Debug\netcoreapp2.1\NetCoreAutomation.deps.json
+C:\Users\ukrcachaturvedi\Desktop\NetCoreAutomation\NetCoreAutomation\bin\Debug\netcoreapp2.1\NetCoreAutomation.runtimeconfig.json
+C:\Users\ukrcachaturvedi\Desktop\NetCoreAutomation\NetCoreAutomation\bin\Debug\netcoreapp2.1\NetCoreAutomation.runtimeconfig.dev.json
+C:\Users\ukrcachaturvedi\Desktop\NetCoreAutomation\NetCoreAutomation\bin\Debug\netcoreapp2.1\NetCoreAutomation.dll
+C:\Users\ukrcachaturvedi\Desktop\NetCoreAutomation\NetCoreAutomation\bin\Debug\netcoreapp2.1\NetCoreAutomation.pdb
+C:\Users\ukrcachaturvedi\Desktop\NetCoreAutomation\NetCoreAutomation\obj\Debug\netcoreapp2.1\NetCoreAutomation.AssemblyInfoInputs.cache
+C:\Users\ukrcachaturvedi\Desktop\NetCoreAutomation\NetCoreAutomation\obj\Debug\netcoreapp2.1\NetCoreAutomation.AssemblyInfo.cs
+C:\Users\ukrcachaturvedi\Desktop\NetCoreAutomation\NetCoreAutomation\obj\Debug\netcoreapp2.1\NetCoreAutomation.dll
+C:\Users\ukrcachaturvedi\Desktop\NetCoreAutomation\NetCoreAutomation\obj\Debug\netcoreapp2.1\NetCoreAutomation.pdb

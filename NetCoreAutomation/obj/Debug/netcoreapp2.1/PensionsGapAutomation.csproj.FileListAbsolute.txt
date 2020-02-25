@@ -1,0 +1,17 @@
+C:\Users\ukrcachaturvedi\source\repos\PensionsGapAutomation\PensionsGapAutomation\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\ukrcachaturvedi\source\repos\PensionsGapAutomation\PensionsGapAutomation\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\ukrcachaturvedi\source\repos\PensionsGapAutomation\PensionsGapAutomation\bin\Debug\netcoreapp2.1\nunit.engine.dll
+C:\Users\ukrcachaturvedi\source\repos\PensionsGapAutomation\PensionsGapAutomation\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+C:\Users\ukrcachaturvedi\source\repos\PensionsGapAutomation\PensionsGapAutomation\bin\Debug\netcoreapp2.1\testhost.exe
+C:\Users\ukrcachaturvedi\source\repos\PensionsGapAutomation\PensionsGapAutomation\bin\Debug\netcoreapp2.1\testhost.dll
+C:\Users\ukrcachaturvedi\source\repos\PensionsGapAutomation\PensionsGapAutomation\bin\Debug\netcoreapp2.1\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\ukrcachaturvedi\source\repos\PensionsGapAutomation\PensionsGapAutomation\bin\Debug\netcoreapp2.1\PensionsGapAutomation.deps.json
+C:\Users\ukrcachaturvedi\source\repos\PensionsGapAutomation\PensionsGapAutomation\bin\Debug\netcoreapp2.1\PensionsGapAutomation.runtimeconfig.json
+C:\Users\ukrcachaturvedi\source\repos\PensionsGapAutomation\PensionsGapAutomation\bin\Debug\netcoreapp2.1\PensionsGapAutomation.runtimeconfig.dev.json
+C:\Users\ukrcachaturvedi\source\repos\PensionsGapAutomation\PensionsGapAutomation\bin\Debug\netcoreapp2.1\PensionsGapAutomation.dll
+C:\Users\ukrcachaturvedi\source\repos\PensionsGapAutomation\PensionsGapAutomation\bin\Debug\netcoreapp2.1\PensionsGapAutomation.pdb
+C:\Users\ukrcachaturvedi\source\repos\PensionsGapAutomation\PensionsGapAutomation\obj\Debug\netcoreapp2.1\PensionsGapAutomation.AssemblyInfoInputs.cache
+C:\Users\ukrcachaturvedi\source\repos\PensionsGapAutomation\PensionsGapAutomation\obj\Debug\netcoreapp2.1\PensionsGapAutomation.AssemblyInfo.cs
+C:\Users\ukrcachaturvedi\source\repos\PensionsGapAutomation\PensionsGapAutomation\obj\Debug\netcoreapp2.1\PensionsGapAutomation.dll
+C:\Users\ukrcachaturvedi\source\repos\PensionsGapAutomation\PensionsGapAutomation\obj\Debug\netcoreapp2.1\PensionsGapAutomation.pdb
+c:\users\ukrcachaturvedi\source\repos\pensionsgapautomation\PensionsGapAutomation\obj\Debug\netcoreapp2.1\PensionsGapAutomation.csprojAssemblyReference.cache
